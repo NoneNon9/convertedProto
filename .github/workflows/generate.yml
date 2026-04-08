@@ -73,7 +73,7 @@ jobs:
           cd ../gen-repo
 
           git config --local user.name "NoneNon9"
-          git config --local user.email "240565@astanit.edu.kz"
+          git config --local user.email "240565@astanait.edu.kz"
 
           git add .
 
